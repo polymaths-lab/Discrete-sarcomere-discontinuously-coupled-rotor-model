@@ -1,2 +1,2 @@
 # Discrete-sarcomere-discontinuously-coupled-rotor-model
-Discrete sarcomere model reveals  myosin unbinding dynamics and conditions for regularity of spontaneous oscillatory contractions
+Discrete rotor models demonstrating actomyosin-like behaviour using only simple contact-contact binding between rotors and teeth in an actomyosin-like architecture 
